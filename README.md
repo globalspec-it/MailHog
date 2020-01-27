@@ -29,6 +29,9 @@ MailHog is an email testing tool for developers:
   * the SMTP server starts on port 1025
   * the HTTP server starts on port 8025
   * in-memory message storage
+  
+  STARTTLS Support
+  go run main.go -certs-paths ./server.crt,./server.key.
 
 ### Features
 
