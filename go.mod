@@ -12,5 +12,5 @@ require (
 	github.com/mailhog/http v1.0.0
 	github.com/mailhog/mhsendmail v0.2.1-0.20160920204233-c097b3bc3fe7
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.1.0
 )
